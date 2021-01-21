@@ -11,7 +11,7 @@
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/github.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/git.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/linux.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/shell.jpg" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/terminal.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/maven.jpg" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/aws.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/jfrog.png" />
@@ -22,10 +22,11 @@
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/Ansible.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/teraform.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/grafana.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/prometheus.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/sonarqube.png" />
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/zabbix.png" />][zabbixrepo]
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/mysqlpng" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/helm.png" />
 
+<br />
 <br />
 
 ### Connect with me:
@@ -45,7 +46,7 @@
 [facebook]: https://www.facebook.com/alex.sonars
 [twitter]: https://twitter.com/AlexSonars
 [linkedin]: https://www.linkedin.com/in/alex-sonar-s/
-
+[zabbixrepo]: https://github.com/AlexSonar/zabbix-server-in-box
 <!--
 **AlexSonar/AlexSonar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
