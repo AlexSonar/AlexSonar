@@ -1,6 +1,6 @@
 ## Hi there, I'm Alex Sonar 👋
 
-### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
+### I'm a Devops Engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 - Contribute more to Open Source projects
 
 
