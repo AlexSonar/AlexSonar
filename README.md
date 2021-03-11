@@ -4,9 +4,7 @@
 - Contribute more to Open Source projects
 
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alexsonar&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+
 
 
 <br />
@@ -66,6 +64,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alexsonar&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
