@@ -9,7 +9,7 @@
 
 <br />
 
-### Languages and Tools:
+### Tools:
 
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/github.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/git.png" />
@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="380px"
+<img width="340px"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alexsonar&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
-<h2 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages:</h3>
 <p align="center">
   <a href="https://profile.codersrank.io/user/alexsonar" target="_blank">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexsonar&skills=Other,HTML,Hcl,JavaScript,JSON,SCSS,Less,CSS,Java,Python,Go,Shell,Batchfile&width=820&bg=transparent&branding=false" alt="CodersRank skills chart"/>
