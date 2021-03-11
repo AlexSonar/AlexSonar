@@ -75,5 +75,5 @@ Here are some ideas to get you started:
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexsonar&skills=Other,HTML,Hcl,JavaScript,JSON,SCSS,Less,CSS,Java,Python,Go,Shell,Batchfile&width=820&bg=transparent&branding=false" alt="CodersRank skills chart"/>
   </a>
 </p>
-
+<!--
 <script type="text/javascript" src="https://unpkg.com/@codersrank/summary/codersrank-summary.min.js"></script>
