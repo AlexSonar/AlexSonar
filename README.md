@@ -65,9 +65,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="340px"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alexsonar&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+
 
 <h2 align="center">Languages:</h3>
 <p align="center">
@@ -75,5 +73,9 @@ Here are some ideas to get you started:
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexsonar&skills=Other,HTML,Hcl,JavaScript,JSON,SCSS,Less,CSS,Java,Python,Go,Shell,Batchfile&width=820&bg=transparent&branding=false" alt="CodersRank skills chart"/>
   </a>
 </p>
+
+<img width="340px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alexsonar&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 <!--
 <script type="text/javascript" src="https://unpkg.com/@codersrank/summary/codersrank-summary.min.js"></script>
