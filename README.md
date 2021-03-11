@@ -62,6 +62,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://profile.codersrank.io/user/alexsonar" target="_blank">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=JavaScript,TypeScript,Vue,Svelte,SCSS,Less,CSS,HTML&width=820&bg=transparent&branding=false" alt="CodersRank skills chart"/>
+  </a>
+</p>
+
       <!-- Skills chart widget -->
       <codersrank-summary username="alexsonar"></codersrank-summary>
    
