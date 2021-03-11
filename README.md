@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://profile.codersrank.io/user/alexsonar" target="_blank">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexsonar&skills=Other,HTML.JavaScript,SCSS,Less,CSS,Java,Python,Shell,Batchfile&width=820&bg=transparent&branding=false" alt="CodersRank skills chart"/>
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexsonar&skills=Other,HTML,JavaScript,JSON,SCSS,Less,CSS,Java,Python,Go,Shell,Batchfil,HCLe&width=820&bg=transparent&branding=false" alt="CodersRank skills chart"/>
   </a>
 </p>
 
