@@ -76,4 +76,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<script src="https://unpkg.com/@codersrank/summary/codersrank-summary.min.js"></script>
+<script type="text/javascript" src="https://unpkg.com/@codersrank/summary/codersrank-summary.min.js"></script>
