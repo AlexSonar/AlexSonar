@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 </p>
 
       <!-- Skills chart widget -->
-      <codersrank-summary username="alexsonar"></codersrank-summary>
-   
-  <script src="https://unpkg.com/@codersrank/summary/codersrank-summary.min.js"></script>
+      
+<codersrank-summary username="alexsonar"></codersrank-summary>
+
+<script src="https://unpkg.com/@codersrank/summary/codersrank-summary.min.js"></script>
