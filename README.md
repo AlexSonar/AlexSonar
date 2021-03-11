@@ -61,3 +61,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+      <!-- Skills chart widget -->
+      <codersrank-summary username="alexsonar"></codersrank-summary>
+   
+  <script src="https://unpkg.com/@codersrank/summary/codersrank-summary.min.js"></script>
