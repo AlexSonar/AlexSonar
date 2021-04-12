@@ -46,11 +46,12 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlexSonar&show_icons=true&hide_border=true" />
 [alex_sonar]: https://alexsonar.github.io/
+[zabbixrepo]: https://github.com/AlexSonar/zabbix-server-in-box
+[prometheus]: https://github.com/AlexSonar/prometheus_inegration
 [facebook]: https://www.facebook.com/alex.sonars
 [twitter]: https://twitter.com/AlexSonars
 [linkedin]: https://www.linkedin.com/in/alex-sonar-s/
-[zabbixrepo]: https://github.com/AlexSonar/zabbix-server-in-box
-[prometheus]: https://github.com/AlexSonar/prometheus_inegration
+
 <!--
 **AlexSonar/AlexSonar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
