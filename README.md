@@ -19,6 +19,7 @@
 <img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/aws.png" />
 <img align="left" alt="JFrog" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/jfrog.png" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/docker.png" />
+<br>
 <img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/kubernetes.png" />
 <img align="left" alt="Nexus" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/nexus.png" />
 <img align="left" alt="Jenkins" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/jenkins.png" />
