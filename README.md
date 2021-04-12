@@ -2,7 +2,6 @@
 
 ### I'm a Devops Engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.[More details about me][alex_sonar]
 - Contribute more to Open Source projects
--
 
 [alex_sonar]: https://alexsonar.github.io/
 
