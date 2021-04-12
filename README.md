@@ -24,7 +24,7 @@
 <img align="left" alt="Jenkins" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/jenkins.png" />
 <img align="left" alt="Ansible" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/Ansible.png" />
 <img align="left" alt="Teraform" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/teraform.png" />
-<img align="left" alt="Grafana" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/grafana.png" />
+[<img align="left" alt="Grafana" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/grafana.png" />][prometheus]
 <img align="left" alt="Zabbix" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/zabbix.png" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/mysql.png" />
 <img align="left" alt="Helm" width="30px" src="https://raw.githubusercontent.com/alexsonar/AlexSonar/master/Tools_icons/helm.png" />
@@ -50,6 +50,7 @@
 [twitter]: https://twitter.com/AlexSonars
 [linkedin]: https://www.linkedin.com/in/alex-sonar-s/
 [zabbixrepo]: https://github.com/AlexSonar/zabbix-server-in-box
+[prometheus]: https://github.com/AlexSonar/prometheus_inegration
 <!--
 **AlexSonar/AlexSonar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
