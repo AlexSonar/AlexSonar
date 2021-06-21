@@ -1,4 +1,4 @@
-## Hi there, I'm Serge Alex Zottov Sonar 👋
+## Hi there, I'm Serge Alex Zotov Sonar 👋
 
 ### I'm a Devops Engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.[More details about me][alex_sonar]
 
