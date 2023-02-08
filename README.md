@@ -1,6 +1,9 @@
 ## Hi there, I'm Serge Alex Zotov Sonar 👋
 
-### I'm a Devops Engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.[More details about me][alex_sonar]
+### Hi everyone, I'm Alex, a pretty fun and friendly Developer :)
+DevOps Software-engineer, with a total 19 years in software development and 7 years of international experience managing critical environments and Cloud Infrastructure for enterprises.
+I am always happy to communicate professionally.
+Feel free to get in touch with me.[More details about me][alex_sonar]
 
 
 [alex_sonar]: https://alexsonar.github.io/
