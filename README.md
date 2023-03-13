@@ -1,4 +1,4 @@
-## Hi there, I'm Serge Alex Zotov Sonar 👋
+## Hi there, I'm  Alex 👋
 
 ### Hi everyone, I'm Alex, a pretty fun and friendly Developer :)
 I am always happy to communicate professionally.
