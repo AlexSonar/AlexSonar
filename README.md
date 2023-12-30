@@ -4,7 +4,7 @@
 I am always happy to communicate professionally.
 Feel free to get in touch with me.[More details about me][alex_sonar]
 
-[alex_sonar]: https://alexsonar.github.io/
+[alex_sonar]: https://alexsonar.github.io/about/
 
 <br />
 <br />
